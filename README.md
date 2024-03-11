@@ -1,5 +1,7 @@
 # Aktivace účtu pomocí externí webové stránky.
 Systém je velmi jednoduchý, stačí sledovat kroky níže. :)
+Nezapomeň se přidat pro podporu, a mnohem více, zde: https://discord.gg/rdngUwKUqr
+
 
 # Instalace
 1. Stáhnout obsah této repozitáře.
@@ -13,3 +15,5 @@ Systém je velmi jednoduchý, stačí sledovat kroky níže. :)
 8. Nakonfigurovat si server a auth dle sebe (heslo účtu pro web lze upravit zde: mods\deathmatch\settings.xml, (<setting name="@usercontrolpanel.website_pass" value="HESLO" />) - Při každé změně je potřeba smazat účet website pomocí příkazu do konzole: delaccount website, a poté restartovat server/resource account.
 9. Vše otestovat, pokud funguje jak má, hotovo!
 9.1 Pokud něco nefunguje, kontaktuj mě zde: https://discord.gg/rdngUwKUqr
+
+# Videoukázka
