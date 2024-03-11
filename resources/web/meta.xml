@@ -1,0 +1,5 @@
+<meta>
+    <script src="s_main.lua" type="server"/>
+
+    <export function="verifyAccount" type="server" http="true"/>
+</meta>
