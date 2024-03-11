@@ -17,3 +17,4 @@ Nezapomeň se přidat pro podporu, a mnohem více, zde: https://discord.gg/rdngU
 9.1 Pokud něco nefunguje, kontaktuj mě zde: https://discord.gg/rdngUwKUqr
 
 # Videoukázka
+https://youtu.be/pVbRbn2UiQw
